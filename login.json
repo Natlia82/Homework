@@ -1,0 +1,9 @@
+[  { "log": "admin",
+     "password": "admin",
+      "fio": "Иванов Сергей" },
+
+    { "log": "user",
+      "password": "user",
+      "fio": "Петров Иван" }
+
+    ]
